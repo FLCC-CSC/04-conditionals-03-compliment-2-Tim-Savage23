@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Tim Savage
+# DATE: February, 21, 2026
+# BRIEF DESCRIPTION:  Compliment only if someone put enters yes.
 
 
 
@@ -15,14 +15,15 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+answer= input("Would you like a compliment? ")
 
+if answer== "yes":
 
+    print("You have wonderful eyes.")
 
+else:print ("No compliment for you!")
 
-
-
-
-
+print("Thank you for playing. ")
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -71,7 +72,7 @@ Thank you for playing.
 
 1. Did you struggle with this lab (YES/NO)?
 
-
+I wouldn't say I struggled. I messed up with indentation on Print but once I ran the program it was resolved.
 
 
 
